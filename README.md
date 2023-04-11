@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Víctor Gutiérrez</h1>
 <h3 align="center">A passionate developer from Uruguay</h3>
 
-- 🌱 I’m currently learning **Tech Developer - Backend Specialist**
+- 🌱 I’m currently learning **Tech Software Developer**
 
 - 📫 How to reach me **victor4guiar89@gmail.com**
 
